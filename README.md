@@ -1,5 +1,4 @@
 ## Resultado:
-Resultado:
 1. Generar un Repositorio en GitHub de nombre Hongos.
 2. Crear un Notebook de Jupyter en Colab del mismo nombre.
 3. Agregar sus datos personales en el Notebook como texto.
